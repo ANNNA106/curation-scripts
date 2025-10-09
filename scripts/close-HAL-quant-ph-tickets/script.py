@@ -23,4 +23,3 @@ class CloseHALQuantPhTickets(SearchCheckDo):
 
 
 CloseHALQuantPhTickets()
-
