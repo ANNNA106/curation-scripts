@@ -38,3 +38,4 @@ resources:
   - scripts/move-jacow-urls
   - scripts/cleanup-and-move-rors
   - scripts/restore-arxiv-preprint-date
+  - scripts/close-hal-quant-ph-tickets
